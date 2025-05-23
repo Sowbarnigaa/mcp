@@ -1,4 +1,10 @@
-fastapi==0.95.2
-fastapi-mcp==0.1.4
-uvicorn[standard]==0.22.0
-pyyaml==6.0
+# fastapi==0.95.2
+# fastapi-mcp==0.1.4
+# uvicorn[standard]==0.22.0
+# pyyaml==6.0
+
+
+fastapi>0.95.0
+fastapi-mcp>0.1.4
+uvicorn[standard]>0.22.0
+pyyaml>6.0
